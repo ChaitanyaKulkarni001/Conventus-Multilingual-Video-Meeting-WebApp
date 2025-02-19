@@ -1,8 +1,18 @@
-# React + Vite
+# 📹 Multilingual Video Meeting Web App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **real-time video conferencing** web application with **multilingual support**, enabling seamless communication across different languages.  
 
-Currently, two official plugins are available:
+## 🚀 Features  
+- 🎥 **HD Video & Audio Calls**  
+- 🌍 **Live Multilingual Translations** (Real-time speech & chat translation)  
+- 💬 **Integrated Chat **  
+- 🔐 **Secure & Encrypted Communication**  
+- 🌐 **Browser-Based, No Installation Required**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 📌 How to Use  
+1. **Start or Join a Meeting**  
+2. **Select Your Preferred Language**  
+3. **Communicate Seamlessly with Real-Time Translations**  
+
+🔗 *More features coming soon!* 🚀  
