@@ -15,4 +15,4 @@ A **real-time video conferencing** web application with **multilingual support**
 2. **Select Your Preferred Language**  
 3. **Communicate Seamlessly with Real-Time Translations**  
 
-🔗 *More features coming soon!* 🚀  
+🔗 [Checkout for more information](https://drive.google.com/file/d/1QThQ_lYxBcg_RggLe0YRnYil7helTyHM/view?usp=sharing)
