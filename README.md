@@ -5,7 +5,7 @@ A **real-time video conferencing** web application with **multilingual support**
 ## 🚀 Features  
 - 🎥 **HD Video & Audio Calls**  
 - 🌍 **Live Multilingual Translations** (Real-time speech & chat translation)  
-- 💬 **Integrated Chat **  
+- 💬 **Integrated Chat**  
 - 🔐 **Secure & Encrypted Communication**  
 - 🌐 **Browser-Based, No Installation Required**  
 
